@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a self-taught developer focused on JavaScript and modern web development, building practical projects to strengthen my problem-solving and programming fundamentals.<br><br>Alongside JavaScript, I’m learning SQL and Python to broaden my understanding of data, backend logic, and the foundations of AI-driven applications.<br><br>This GitHub documents my learning journey through small but intentional projects, experiments, and implementations that reflect my progress and curiosity as a developer.<br><br>I enjoy breaking down complex problems, improving code structure over time, and continuously exploring better ways to build efficient and scalable solutions.<br><br>Current focus:<br>• JavaScript fundamentals and DOM manipulation  <br>• Building small web applications from scratch  <br>• Strengthening problem-solving and debugging skills  <br>• Expanding into data and backend concepts with SQL and Python  <br><br>Future goals:<br>• Develop full-stack projects  <br>• Explore automation and AI-integrated tools  <br>• Transition into a professional development role
+I'm building systems I think might work for people using AI.
 
 
 # 💻 Tech Stack:
